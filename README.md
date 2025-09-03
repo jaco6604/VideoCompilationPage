@@ -12,5 +12,4 @@ A simple HTML website I built to showcase some popular cat YouTube videos.
 -How to use `<iframe>` to embed YouTube videos and set titles for sake of accessibility.
 -How to oranize content for clarity and simple browsing.
 
-## Demo
-You can view the live page here: [VideoCompilationPage Live](https://jaco6604.github.io/VideoCompilationPage/)
+
